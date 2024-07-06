@@ -1,6 +1,6 @@
 sidebar:
     position: right
-    about: True
+    about: False
     education: True
 
     name: Brenden Ferland
