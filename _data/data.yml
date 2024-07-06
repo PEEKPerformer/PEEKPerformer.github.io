@@ -87,14 +87,14 @@ certifications:
       title: Certifications
       list:
         - name: QSight Training Course
-          organization: 
+          organization: Perkin Elmer
           credentialid: 
           credentialurl: 
           credentialname: 
           details: 
 
         - name: Understanding 17025:2017 for Testing and Calibration Laboratories
-          organization: 
+          organization: A2LA
           credentialid: 
           credentialurl: 
           credentialname: 
@@ -128,6 +128,37 @@ skills:
       - name: Polymer Science
         level: 95%
 
+      - name: Public Speaking
+        level: 90%
+
+      - name: Workflow Optimization
+        level: 95%
+
+      - name: Collaboration &amp; Teamwork
+        level: 95%
+
+      - name: Leadership &amp; Mentoring
+        level: 90%
+
+      - name: Literature Review
+        level: 95%
+
+      - name: Project Management
+        level: 85%
+
+      - name: Data Analysis
+        level: 90%
+
+      - name: Scientific Writing
+        level: 90%
+
+      - name: Problem Solving
+        level: 95%
+
+instrumentation:
+    title: Instrumentation Proficiency
+
+    toolset:
       - name: Gel Permeation Chromatography (GPC)
         level: 90%
 
@@ -141,6 +172,31 @@ skills:
         level: 85%
 
       - name: Differential Scanning Calorimetry (DSC)
+        level: 85%
+
+      - name: Agilent 1260 Infinity
+        level: 80%
+
+      - name: QSight 420
+        level: 80%
+
+software:
+    title: Software Proficiency
+
+    toolset:
+      - name: Office 365
+        level: 95%
+
+      - name: Python
+        level: 85%
+
+      - name: Chemstation
+        level: 80%
+
+      - name: Agilent OpenLab
+        level: 80%
+
+      - name: ImageJ/Fiji
         level: 85%
 
 footer: >
