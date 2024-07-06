@@ -15,7 +15,7 @@
         {% for skill in category.items %}
         <div class="item">
           <h4 class="level-title">{{ skill.name }}</h4>
-          {% assign skill_level = 'width: ' | append: skill.level | append: '%' %}
+          {% assign skill_level = 'width: ' | append: skill.level %}
           <div class="level-bar">
             <div class="level-bar-inner" style="{{ skill_level }}"></div>
           </div>
