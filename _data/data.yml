@@ -10,7 +10,7 @@ sidebar:
     email: brendenferland@gmail.com
     phone: 
     timezone: America/New_York
-    citizenship:
+    citizenship: United States
     website: 
     linkedin: brendenferland
     github: 
@@ -122,60 +122,58 @@ publications:
         conference: "2023, 2024"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills &amp; Proficiencies
     toolset:
-      - name: Workflow Optimization
-        level: 97%
-      - name: Polymer Science
-        level: 95%
-      - name: Collaboration &amp; Teamwork
-        level: 95%
-      - name: Literature Review
-        level: 95%
-      - name: Problem Solving
-        level: 95%
-      - name: Public Speaking
-        level: 90%
-      - name: Leadership &amp; Mentoring
-        level: 90%
-      - name: Data Analysis
-        level: 90%
-      - name: Scientific Writing
-        level: 90%
-      - name: Project Management
-        level: 85%
-
-instrumentation:
-    title: Instrumentation Proficiency
-    toolset:
-      - name: Agilent 1260 Infinity
-        level: 97%
-      - name: QSight 420
-        level: 95%
-      - name: Gel Permeation Chromatography (GPC)
-        level: 90%
-      - name: Nuclear Magnetic Resonance (NMR)
-        level: 90%
-      - name: Raman Spectroscopy
-        level: 85%
-      - name: Thermogravimetric Analysis (TGA)
-        level: 85%
-      - name: Differential Scanning Calorimetry (DSC)
-        level: 85%
-
-software:
-    title: Software Proficiency
-    toolset:
-      - name: Chemstation
-        level: 97%
-      - name: Agilent OpenLab
-        level: 97%
-      - name: Office 365
-        level: 95%
-      - name: ImageJ/Fiji
-        level: 85%
-      - name: Python
-        level: 75%
+      - name: General Skills
+        items:
+          - name: Workflow Optimization
+            level: 97%
+          - name: Polymer Science
+            level: 95%
+          - name: Collaboration &amp; Teamwork
+            level: 95%
+          - name: Literature Review
+            level: 95%
+          - name: Problem Solving
+            level: 95%
+          - name: Public Speaking
+            level: 90%
+          - name: Leadership &amp; Mentoring
+            level: 90%
+          - name: Data Analysis
+            level: 90%
+          - name: Scientific Writing
+            level: 90%
+          - name: Project Management
+            level: 85%
+      - name: Instrumentation Proficiency
+        items:
+          - name: Agilent 1260 Infinity
+            level: 97%
+          - name: QSight 420
+            level: 95%
+          - name: Gel Permeation Chromatography (GPC)
+            level: 90%
+          - name: Nuclear Magnetic Resonance (NMR)
+            level: 90%
+          - name: Raman Spectroscopy
+            level: 85%
+          - name: Thermogravimetric Analysis (TGA)
+            level: 85%
+          - name: Differential Scanning Calorimetry (DSC)
+            level: 85%
+      - name: Software Proficiency
+        items:
+          - name: Chemstation
+            level: 97%
+          - name: Agilent OpenLab
+            level: 97%
+          - name: Office 365
+            level: 95%
+          - name: ImageJ/Fiji
+            level: 85%
+          - name: Python
+            level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
