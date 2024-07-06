@@ -10,12 +10,12 @@
   </h2>
   <div class="skillset">
     {% for category in skills.toolset %}
-      <h3>{{ category.name }}</h3>
+      <h3 class="category-title">{{ category.name }}</h3>
       {% for skill in category.items %}
       <div class="item">
         <h4 class="level-title">{{ skill.name }}</h4>
         <div class="level-bar">
-          <div class="level-bar-inner" style="width: {{ skill.level }}"></div>
+          <div class="level-bar-inner" data-level="{{ skill.level }}"></div>
         </div>
       </div>
       {% endfor %}
@@ -23,3 +23,27 @@
   </div>
 </section>
 {% endif %}
+
+<style>
+  .category-title {
+    font-size: 1.1em;
+    color: #545E6C;
+    font-weight: 500;
+    margin-top: 20px;
+    margin-bottom: 15px;
+  }
+  .level-title {
+    font-size: 0.9em;
+    color: #3F4650;
+    font-weight: 400;
+  }
+</style>
+
+<script>
+  $(document).ready(function() {
+    $('.level-bar-inner').each(function() {
+      var itemWidth = $(this).data('level');
+      $(this).css('width', itemWidth);
+    });
+  });
+</script>
