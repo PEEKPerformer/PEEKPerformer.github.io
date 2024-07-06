@@ -15,8 +15,9 @@
         {% for skill in category.items %}
         <div class="item">
           <h4 class="level-title">{{ skill.name }}</h4>
+          {% assign skill_level = 'width: ' | append: skill.level %}
           <div class="level-bar">
-            <div class="level-bar-inner" data-level="{{ skill.level }}"></div>
+            <div class="level-bar-inner" style="{{ skill_level }}"></div>
           </div>
         </div>
         {% endfor %}
@@ -47,25 +48,5 @@
     color: #3F4650;
     font-weight: 400;
   }
-  .level-bar-inner {
-    height: 12px;
-    background: #66cb8c;
-  }
 </style>
-
-<script>
-  // Wrap the JavaScript in a function
-  function setLevelBarWidths() {
-    $('.level-bar-inner').each(function() {
-      var itemWidth = $(this).data('level');
-      $(this).css('width', itemWidth);
-    });
-  }
-
-  // Run the function when the document is ready
-  $(document).ready(setLevelBarWidths);
-
-  // Also run the function when the window is fully loaded
-  $(window).on('load', setLevelBarWidths);
-</script>
 {% endif %}
