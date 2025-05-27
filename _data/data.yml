@@ -63,6 +63,30 @@ education:
 experiences:
     title: Experience
     info:
+      - role: President
+        time: November 2024 - August 2026
+        company: ACS Rubber Division UConn Chapter
+        details: |
+          Founded and served as President of the American Chemical Society Rubber Division UConn Chapter, establishing the organization and leading initiatives to advance rubber science and technology education.
+
+      - role: President
+        time: August 2024 - August 2026
+        company: Society of Plastics Engineers UConn Chapter
+        details: |
+          Led the Society of Plastics Engineers UConn Chapter, organizing professional development events and fostering connections between students and industry professionals in the plastics engineering field.
+
+      - role: Guide
+        time: May 2024 - August 2025
+        company: GEU-UAW Local 6950
+        details: |
+          Served as a Guide for the Graduate Employee Union-UAW Local 6950, providing support and guidance to fellow graduate employees on union matters and workplace rights.
+
+      - role: Senator
+        time: August 2023 - August 2024
+        company: Society of Plastics Engineers
+        details: |
+          Represented UConn students as a Senator for the Society of Plastics Engineers, advocating for student interests and participating in organizational decision-making processes.
+
       - role: Graduate Assistant
         time: August 2022 - Present
         company: University of Connecticut
@@ -113,9 +137,14 @@ projects:
         tagline: "UConn IMS Industry Affiliates Program 2024 Yearly Meeting"
 
 publications:
-    title: Awards
+    title: Publications & Awards
     intro: 
     papers:
+      - title: Transparent conductive PEDOT-graphene films from large-flake graphite
+        link: https://doi.org/10.1016/j.synthmet.2025.117866
+        authors: McDermott, S. T.; Ferland, B.; Liu, J.; Abeykoon, P.; Joyce, M. J.; Shuster, S.; Suib, S. L.; Adamson, D. H.
+        conference: "Synthetic Metals, 2025"
+
       - title: SPE Connecticut Section Scholarship
         link: 
         authors: 
