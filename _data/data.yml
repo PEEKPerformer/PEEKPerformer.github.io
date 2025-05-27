@@ -160,56 +160,84 @@ publications:
 skills:
     title: Skills &amp; Proficiencies
     toolset:
-      - name: General Skills
+      - name: Technical Expertise
         items:
-          - name: Workflow Optimization
-            level: 97%
           - name: Polymer Science
             level: 95%
-          - name: Collaboration &amp; Teamwork
-            level: 95%
-          - name: Literature Review
-            level: 95%
-          - name: Problem Solving
-            level: 95%
-          - name: Public Speaking
+          - name: Method Development &amp; Validation
             level: 90%
-          - name: Leadership &amp; Mentoring
-            level: 90%
+          - name: Workflow Optimization
+            level: 92%
           - name: Data Analysis
-            level: 90%
-          - name: Scientific Writing
-            level: 90%
-          - name: Project Management
             level: 85%
-      - name: Instrumentation Proficiency
+          - name: Literature Review
+            level: 88%
+          - name: Regulatory Compliance
+            level: 82%
+          - name: Quality Assurance
+            level: 80%
+          - name: Process Improvement
+            level: 78%
+      - name: Leadership &amp; Communication
+        items:
+          - name: Organizational Development
+            level: 88%
+          - name: Leadership &amp; Mentoring
+            level: 85%
+          - name: Public Speaking
+            level: 82%
+          - name: Project Management
+            level: 80%
+          - name: Event Planning &amp; Coordination
+            level: 78%
+          - name: Advocacy &amp; Representation
+            level: 75%
+          - name: Professional Networking
+            level: 72%
+          - name: Strategic Planning
+            level: 70%
+      - name: Collaboration &amp; Problem Solving
+        items:
+          - name: Collaboration &amp; Teamwork
+            level: 90%
+          - name: Problem Solving
+            level: 88%
+          - name: Scientific Writing
+            level: 85%
+          - name: Cost Optimization
+            level: 75%
+          - name: Vendor Relations &amp; Procurement
+            level: 68%
+      - name: Instrumentation
         items:
           - name: Agilent 1260 Infinity
-            level: 97%
-          - name: QSight 420
             level: 95%
+          - name: QSight 420
+            level: 92%
           - name: Gel Permeation Chromatography (GPC)
-            level: 90%
+            level: 85%
           - name: Nuclear Magnetic Resonance (NMR)
-            level: 90%
+            level: 82%
           - name: Raman Spectroscopy
-            level: 85%
+            level: 78%
           - name: Thermogravimetric Analysis (TGA)
-            level: 85%
+            level: 75%
           - name: Differential Scanning Calorimetry (DSC)
-            level: 85%
-      - name: Software Proficiency
+            level: 75%
+      - name: Software &amp; Programming
         items:
           - name: Chemstation
-            level: 97%
-          - name: Agilent OpenLab
-            level: 97%
-          - name: Office 365
             level: 95%
+          - name: Agilent OpenLab
+            level: 92%
+          - name: Office 365
+            level: 88%
+          - name: Visual Basic for Applications (VBA)
+            level: 78%
           - name: ImageJ/Fiji
-            level: 85%
-          - name: Python
             level: 75%
+          - name: Python
+            level: 68%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
