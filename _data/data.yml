@@ -40,14 +40,14 @@ sidebar:
 career-profile:
     title: Professional Summary
     summary: |
-      As a dedicated PhD student in Polymer Science, I am passionate about transforming raw materials into valuable innovations. My research focuses on developing sustainable solutions for desalination and advancing sensing technologies by exfoliating and incorporating flake graphite into polymers. I aim to contribute to a more sustainable future through my work.
+      As a dedicated PhD student in Polymer Science, I am passionate about transforming raw materials into valuable innovations. My research focuses on developing sustainable solutions for advancing sensing technologies by exfoliating and incorporating flake graphite into polymers. Our lab's mission is to add extreme value to hyperabundant raw materials.
 
 education:
     title: Education
     info:
       - degree: Doctor of Philosophy (PhD), Polymer Science
         university: University of Connecticut
-        time: August 2022 - August 2026
+        time: August 2022 - August 2026 (Expected)
         details: 
 
       - degree: Bachelor of Science (BS), Biochemistry
@@ -67,7 +67,8 @@ experiences:
         time: August 2022 - Present
         company: University of Connecticut
         details: |
-          Conducting research on graphene-based polymer composites in the Adamson Lab, focusing on developing advanced materials for various applications.
+          - Conducting research on graphene-based polymer composites in the Adamson Lab, focusing on developing advanced materials for various applications (sensing, environmental remediation, analytical testing).
+          - Coded Python script to automate lab processes and control instrumentation (Keithley 2400, analytical balance, etc)
 
       - role: Organic Chemistry Lab Lead
         time: June 2022 - August 2022
@@ -76,6 +77,7 @@ experiences:
           - Streamlined data processing through Visual Basic for Applications scripts, which reduced turn around times by >80%.
           - Reduced consumables costs by over 70% through value-driven sourcing.
           - Utilized advanced instrumentation including Agilent 1260 Infinity and QSight 420.
+          - Developed a method development protocol for validation of cannabinoid test methods, ensuring A2LA compliance and regulatory standards.
 
       - role: Laboratory Technician
         time: June 2021 - June 2022
@@ -90,19 +92,21 @@ volunteer:
         time: November 2024 - August 2026
         company: ACS Rubber Division UConn Chapter
         details: |
-          Founded and served as President of the American Chemical Society Rubber Division UConn Chapter, establishing the organization and leading initiatives to advance rubber science and technology education.
+          - Founded and served as President of the American Chemical Society Rubber Division UConn Chapter, establishing the organization and leading initiatives to advance rubber science and technology education.
 
       - role: President
         time: August 2024 - August 2026
         company: Society of Plastics Engineers UConn Chapter
         details: |
-          Led the Society of Plastics Engineers UConn Chapter, organizing professional development events and fostering connections between students and industry professionals in the plastics engineering field.
+          - Led the Society of Plastics Engineers UConn Chapter, organizing professional development events and fostering connections between students and industry professionals in the plastics engineering field
+          - Navigated the chapter through a funding crisis.
 
       - role: Guide
         time: May 2024 - August 2025
         company: GEU-UAW Local 6950
         details: |
-          Served as a Guide for the Graduate Employee Union-UAW Local 6950, providing support and guidance to fellow graduate employees on union matters and workplace rights.
+          - Served as a Guide for the Graduate Employee Union-UAW Local 6950
+          - Pioneered a thematic redistricting for the ~2,400 person Union
 
       - role: Senator
         time: August 2023 - August 2024
