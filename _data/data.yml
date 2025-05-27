@@ -61,7 +61,30 @@ education:
         details:
 
 experiences:
-    title: Experience
+    title: Work Experience
+    info:
+      - role: Graduate Assistant
+        time: August 2022 - Present
+        company: University of Connecticut
+        details: |
+          Conducting research on graphene-based polymer composites in the Adamson Lab, focusing on developing advanced materials for various applications.
+
+      - role: Organic Chemistry Lab Lead
+        time: June 2022 - August 2022
+        company: AltaSci Labs
+        details: |
+          - Streamlined data processing through Visual Basic for Applications scripts, which reduced turn around times by >80%.
+          - Reduced consumables costs by over 70% through value-driven sourcing.
+          - Utilized advanced instrumentation including Agilent 1260 Infinity and QSight 420.
+
+      - role: Laboratory Technician
+        time: June 2021 - June 2022
+        company: AltaSci Labs
+        details: |
+          Contributed to laboratory operations and assisted in various analytical procedures.
+
+volunteer:
+    title: Leadership & Volunteer Experience
     info:
       - role: President
         time: November 2024 - August 2026
@@ -86,26 +109,6 @@ experiences:
         company: Society of Plastics Engineers
         details: |
           Represented UConn students as a Senator for the Society of Plastics Engineers, advocating for student interests and participating in organizational decision-making processes.
-
-      - role: Graduate Assistant
-        time: August 2022 - Present
-        company: University of Connecticut
-        details: |
-          Conducting research on graphene-based polymer composites in the Adamson Lab, focusing on developing advanced materials for various applications.
-
-      - role: Organic Chemistry Lab Lead
-        time: June 2022 - August 2022
-        company: AltaSci Labs
-        details: |
-          - Streamlined data processing through Visual Basic for Applications scripts, which reduced turn around times by >80%.
-          - Reduced consumables costs by over 70% through value-driven sourcing.
-          - Utilized advanced instrumentation including Agilent 1260 Infinity and QSight 420.
-
-      - role: Laboratory Technician
-        time: June 2021 - June 2022
-        company: AltaSci Labs
-        details: |
-          Contributed to laboratory operations and assisted in various analytical procedures.
 
 certifications:
       title: Certifications
