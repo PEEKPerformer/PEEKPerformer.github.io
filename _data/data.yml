@@ -86,8 +86,8 @@ experiences:
         details: |
           Contributed to laboratory operations and assisted in various analytical procedures.
 
-leadership:
-    title: Leadership Experience
+volunteer:
+    title: Leadership & Volunteer Experience
     info:
       - role: President
         time: November 2024 - August 2026
@@ -115,9 +115,6 @@ leadership:
         details: |
           Represented UConn students as a Senator for the Society of Plastics Engineers, advocating for student interests and participating in organizational decision-making processes.
 
-volunteer:
-    title: Volunteer Experience
-    info:
       - role: STEM Education Volunteer Tour Guide
         time: June 2025
         company: UConn Institute of Materials Science
