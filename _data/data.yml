@@ -86,8 +86,8 @@ experiences:
         details: |
           Contributed to laboratory operations and assisted in various analytical procedures.
 
-volunteer:
-    title: Leadership & Volunteer Experience
+leadership:
+    title: Leadership Experience
     info:
       - role: President
         time: November 2024 - August 2026
@@ -102,12 +102,6 @@ volunteer:
           - Led the Society of Plastics Engineers UConn Chapter, organizing professional development events and fostering connections between students and industry professionals in the plastics engineering field
           - Navigated the chapter through a funding crisis.
 
-      - role: STEM Education Volunteer Tour Guide
-        time: June 2025
-        company: UConn Institute of Materials Science
-        details: |
-          - Volunteered as a tour guide for UConn's "Empowering Kids" STEM outreach program, leading groups of 85+ eighth-grade students from six Connecticut school districts through hands-on learning stations including fuel cell technology demonstrations, solar energy applications, and engineering challenges.
-
       - role: Guide
         time: May 2024 - August 2025
         company: GEU-UAW Local 6950
@@ -120,6 +114,15 @@ volunteer:
         company: Society of Plastics Engineers UConn Chapter
         details: |
           Represented UConn students as a Senator for the Society of Plastics Engineers, advocating for student interests and participating in organizational decision-making processes.
+
+volunteer:
+    title: Volunteer Experience
+    info:
+      - role: STEM Education Volunteer Tour Guide
+        time: June 2025
+        company: UConn Institute of Materials Science
+        details: |
+          - Volunteered as a tour guide for UConn's "Empowering Kids" STEM outreach program, leading groups of 85+ eighth-grade students from six Connecticut school districts through hands-on learning stations including fuel cell technology demonstrations, solar energy applications, and engineering challenges.
 
 certifications:
       title: Certifications
